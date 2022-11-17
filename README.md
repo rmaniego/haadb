@@ -8,7 +8,7 @@ When using objects such as images, files, etc., make sure you have processed it 
 ## Official Release
 **HaaDB** can now be used on your Python projects through PyPi by running pip command on a Python-ready environment.
 
-`pip install haadb --U`
+`pip install haadb -U`
 
 Current version is 1.0.\*, but more updates are coming soon.
 
